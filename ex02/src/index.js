@@ -15,5 +15,5 @@ var myClothes = {
     };
     
     //only change code above this line 
-    console.log (myFunction(myClothes));
+    console.log(myFunction(myClothes));
     module.exports = myFunction(myClothes);

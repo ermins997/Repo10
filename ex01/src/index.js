@@ -10,6 +10,6 @@ function myFunction(myObj){
 }
 // only change code above this line 
 
-console.log (myFunction(myPet)); //change this line 
+console.log(myFunction(myPet)); //change this line 
 
 module.exports = { myPet, myFunction };

@@ -13,5 +13,5 @@ function myFunction(myObj) {
 
 //only change code above this line 
 
-console.log (myFunction(players)); // change this line 
+console.log(myFunction(players)); // change this line 
 module.exports ={ players, myFunction};
